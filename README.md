@@ -1,3 +1,28 @@
+# Movies Cheker
+
+【作成経緯】.  
+天気予報のアプリ作成後、APIと学習中のReactで取得できないかと検索し、作成しました。   
+映画の情報をAPIで取得し表示しているだけですが、検索機能などつけました。  
+    
+    映画サイトのAPIを取得しています。   
+＊現状、Minmagicが公開停止になったことにより、関係依存修復中です。
+
+# 見本
+<img width="800" alt="スクリーンショット 2021-06-12 21 12 03" src="https://user-images.githubusercontent.com/69971834/121775483-fa65c680-cbc2-11eb-97c4-164cab36b5e3.png">
+
+
+
+# 環境
+React.   
+Typescript.   
+
+# 機能一覧
+・検索機能
+・APIをStateでひっぱてきてます。   
+
+# 作成者
+yuki.Echigawa
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
