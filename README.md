@@ -14,7 +14,7 @@
 
 # 環境
 React.   
-Typescript.   
+Javacript.   
 
 # 機能一覧
 ・検索機能
