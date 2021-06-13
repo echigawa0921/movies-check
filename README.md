@@ -5,7 +5,7 @@
 映画の情報をAPIで取得し表示しているだけですが、検索機能などつけました。  
     
     映画サイトのAPIを取得しています。   
-＊現状、Minmagicが公開停止になったことにより、関係依存修復中です。
+
 
 # 見本
 <img width="800" alt="スクリーンショット 2021-06-12 21 12 03" src="https://user-images.githubusercontent.com/69971834/121775483-fa65c680-cbc2-11eb-97c4-164cab36b5e3.png">
